@@ -1,0 +1,2 @@
+android.app.Application
+Cohabit.Droid.Cohabit.Droid

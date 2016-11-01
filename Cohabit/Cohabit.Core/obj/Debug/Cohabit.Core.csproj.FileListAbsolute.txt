@@ -1,0 +1,15 @@
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\Cohabit.Core.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\Cohabit.Core.pdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\MvvmCross.Binding.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\MvvmCross.Core.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\MvvmCross.Localization.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\MvvmCross.Platform.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\SQLite.Net.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\obj\Debug\Cohabit.Core.dll
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\obj\Debug\Cohabit.Core.pdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\obj\Debug\Cohabit.Core.dll.mdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\Cohabit.Core.dll.mdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\obj\Debug\Cohabit.Core.dll.mdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\Cohabit.Core.dll.mdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\obj\Debug\Cohabit.Core.dll.mdb
+C:\Users\aceof\OneDrive\Documents\Visual Studio 2015\Projects\Cohabit\Cohabit.Core\bin\Debug\Cohabit.Core.dll.mdb
